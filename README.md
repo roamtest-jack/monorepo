@@ -21,3 +21,11 @@ func main() {
     fmt.Println("Hello, World!")
 }
 ```
+
+Here's some indifferent code:
+
+```typescript
+const main = () => {
+  console.log("Hello, world");
+};
+```
